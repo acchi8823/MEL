@@ -1,2 +1,2 @@
 # MEL
-MEL 
+MEL置き場
